@@ -1,4 +1,4 @@
-# ML-Project-Heart.csv-
+# ML-Project-Heart
 
 ## Bu məlumat dəsti 1988-ci ilə aiddir və dörd verilənlər bazasından ibarətdir: Klivlend, Macarıstan, İsveçrə və Long Beach V.
 ## "Target" sütununda olan dəyərlər pasientin xəstəliyinin olub olmaması haqqında məlumat verir
